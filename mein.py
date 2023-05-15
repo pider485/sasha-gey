@@ -124,6 +124,7 @@ while True:
         break
     ball.draw()
     platform.draw()
+    print("Якшо прочитав гей")  
 
     pygame.display.update()
     clock.tick(40)
